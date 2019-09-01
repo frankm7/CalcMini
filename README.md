@@ -1,0 +1,2 @@
+# CalcMini
+Mini Javascript Calculator
